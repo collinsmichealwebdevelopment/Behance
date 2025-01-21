@@ -1,7 +1,7 @@
 import About from './About/About';
 import Footer from './Footer/Footer';
 import Faqs from './faq/Faq';
-import Portfolio from './Portfolio/Portfolio';
+import Portfolio from './portfolio/Portfolio';
 
 
 export {
